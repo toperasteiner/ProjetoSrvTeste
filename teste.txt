@@ -6,4 +6,6 @@ teste de nova branch
 
 liberacao na branch desenv
 
+alterando pelo vsCode
+
 
